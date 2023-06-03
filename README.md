@@ -76,6 +76,8 @@ accuracy
 ```
 
 ## Output:
+```
+Result output
 ![SVM For Spam Mail Detection](6.png)
 
 ![SVM For Spam Mail Detection](1.png)
@@ -88,7 +90,7 @@ accuracy
 
 ![SVM For Spam Mail Detection](5.png)
 
-
+```
 
 
 ## Result:

@@ -88,6 +88,8 @@ accuracy
 
 ![SVM For Spam Mail Detection](4.png)
 
+![SVM For Spam Mail Detection](5.png)
+
 
 
 

@@ -29,6 +29,7 @@ import chardet
 file='/content/spam (1).csv'
 with open(file, 'rb') as rawdata:
     result = chardet.detect(rawdata.read(10000))
+    print('Result output')
 result
 
 import pandas as pd
@@ -77,7 +78,7 @@ accuracy
 
 ## Output:
 ```
-Result output
+
 ![SVM For Spam Mail Detection](6.png)
 
 ![SVM For Spam Mail Detection](1.png)

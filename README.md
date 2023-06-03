@@ -76,6 +76,8 @@ accuracy
 ```
 
 ## Output:
+![SVM For Spam Mail Detection](6.png)
+
 ![SVM For Spam Mail Detection](1.png)
 
 ![SVM For Spam Mail Detection](2.png)
